@@ -1,0 +1,5 @@
+
+pour les extensions coder en js dans la methode handleChangeFile
+
+la correction apporte dans billsUI.js l 28 permet de reussir le test mais pas de trier le DOM
+en revanche le trie l61 de bills.js trie le DOM mais ne permet pas de passer le test
