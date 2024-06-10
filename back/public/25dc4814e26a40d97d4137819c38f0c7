@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0512202201179071031900120020230004657945658032316</numeroAutorizacion>
+<fechaAutorizacion>2022-12-05T18:12:53-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>FARMACIAS Y COMISARIATOS DE MEDICINAS S.A. FARCOMED</razonSocial>
+        <nombreComercial>FYBECA BATAN</nombreComercial>
+        <ruc>1790710319001</ruc>
+        <claveAcceso>0512202201179071031900120020230004657945658032316</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>002</estab>
+        <ptoEmi>023</ptoEmi>
+        <secuencial>000465794</secuencial>
+        <dirMatriz>KM CINCO Y MEDIO AV DE LOS SHYRIS N SN Y SECUNDARIA</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>05/12/2022</fechaEmision>
+        <dirEstablecimiento>AV. 6 DE DICIEMBRE 4102 E IRLANDA 4102  IRLANDA</dirEstablecimiento>
+        <contribuyenteEspecial>5368</contribuyenteEspecial>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>VUILLET  JEAN</razonSocialComprador>
+        <identificacionComprador>1760843688</identificacionComprador>
+        <totalSinImpuestos>382.84</totalSinImpuestos>
+        <totalDescuento>0</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>382.84</baseImponible>
+                <tarifa>0</tarifa>
+                <valor>0.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>382.84</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>19</formaPago>
+                <total>382.84</total>
+                <plazo>1</plazo>
+                <unidadTiempo>MESES</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>14</codigoPrincipal>
+            <descripcion>VALCOTEVALCOTE TABS. 500 MG. C30 SUELTAS</descripcion>
+            <cantidad>90</cantidad>
+            <precioUnitario>0.69</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>62.1</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>62.10</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>53394230</codigoPrincipal>
+            <descripcion>ZONIXZONIX COMP. RECUB. 7.5 MG C30 SUELTA</descripcion>
+            <cantidad>10</cantidad>
+            <precioUnitario>0.25</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>2.5</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>2.50</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>270232</codigoPrincipal>
+            <descripcion>QUETIAPINA (.MK))QUETIAPINA (MK) COMP 200 MG C30 SUELTAS</descripcion>
+            <cantidad>180</cantidad>
+            <precioUnitario>1.768</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>318.24</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>318.24</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>270232</codigoPrincipal>
+            <descripcion>QUETIAPINA (.MK))QUETIAPINA (MK) COMP 200 MG C30 SUELTAS</descripcion>
+            <cantidad>30</cantidad>
+            <precioUnitario>0</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>0</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>0.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>270232</codigoPrincipal>
+            <descripcion>QUETIAPINA (.MK))QUETIAPINA (MK) COMP 200 MG C30 SUELTAS</descripcion>
+            <cantidad>30</cantidad>
+            <precioUnitario>0</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>0</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>0.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>540944</codigoPrincipal>
+            <descripcion>CUPON VIRTUAL RED CLUB FYBECACCLUB FYB MULTICIN DIC 22</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>0</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>0</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>0.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="DESCUENTO">193.16</campoAdicional>
+        <campoAdicional nombre="DEDUCIBLE MEDICINAS">382.84</campoAdicional>
+        <campoAdicional nombre="DOCUMENTO INTERNO">9641244</campoAdicional>
+        <campoAdicional nombre="EMAIL">JEANPV@GMAIL.COM</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature255229"><ds:SignedInfo Id="Signature-SignedInfo797116"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod><ds:Reference Id="SignedPropertiesID169949" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature255229-SignedProperties652786"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>4QUTDS/xOWJeVEZS3oj0d94bamc=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate1550001"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>6k55Nm7Drjir6wbamQXDmbbXFTs=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference-ID-580713" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>Q2opCOKVlQhn0UgS0zi/PjPpWK8=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue473243">aIy91lozYlSOazPP0wO8FkuZEgd1LSO6dzIFXSe6Tmoilh/QfxNRC6tpEWup8zEUtUkzH628AP7sWqp/PvHVULo/hLfNkMtJqJHy6K2jYcWlZyvQpie10bO4ImM90YXbRKgtC3HYVku32j4Y8xEwP2Trgzc+Gk1ViyAcuvRIRFDm/91bdFxJ0ZGTFrHY+hZAAwfR8tvnrI9P/OyIgRpEIbfaooEChpON8OWJGf03e1xS8DDOwmUy4H8zNGZDpdTusv9XQZftP319L9J68Kas1hlXehKEq+ZfBTKIdoBDArMGtnA4e9QLEDq0zyRj6zPqrB3m01ngkj0vxbgMA6lh8g==</ds:SignatureValue><ds:KeyInfo Id="Certificate1550001"><ds:X509Data><ds:X509Certificate>MIIKTzCCCDegAwIBAgIEW2mrATANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNVBAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxBQyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIxMDcwMTE5MzQwMFoXDTIzMDcwMTIwMDQwMFowgbUxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcwNQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4wDAYDVQQHEwVRVUlUTzE5MBEGA1UEBRMKMDAwMDY1NjIyOTAkBgNVBAMTHU1JR1VFTCBBTkdFTCBDRUxFRE9OIEdPTlpBTEVaMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuWpj5GLjEWBBSRilziAkh/tIrk5ej5EME3J1Lbz3KmCVoVAh6J8qvL4T992ijj1g8s+5DwST4Tk1Oqijt+gFC/TeCGbPsaosMlmf1XI6ZqI33tyuErCohHX6j5ROF5AmuFvMSL2y9YULqugp2U8tmyTxGI8SFkPRO71M2fLVD4+s8WtL8RIqT1IML/gEKejtV87gYkfW8bL306llMVekCE43Sm/+T8mNll/WwTh83H0M/1OwOtBXaCvU5BjgTqRD1raxL845dyaIR5HM+CPVSHlReRqJShlC2tZvlGeLU7KvIjmg7cv0QOXmnmkacIUUpmghUTGPeZEnkd/em7UVyQIDAQABo4IFdzCCBXMwCwYDVR0PBAQDAgeAMGcGA1UdIARgMF4wXAYLKwYBBAGCqDsCAgEwTTBLBggrBgEFBQcCARY/aHR0cDovL3d3dy5lY2kuYmNlLmVjL3BvbGl0aWNhLWNlcnRpZmljYWRvL3BlcnNvbmEtanVyaWRpY2EucGRmMIGRBggrBgEFBQcBAQSBhDCBgTA+BggrBgEFBQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDBBBgorBgEEAYKoOwMKBDMTMUZBUk1BQ0lBUyBZIENPTUlTQVJJQVRPUyBERSBNRURJQ0lOQVMgU0EgRkFSQ09NRUQwHQYKKwYBBAGCqDsDCwQPEw0xNzkwNzEwMzE5MDAxMBoGCisGAQQBgqg7AwEEDBMKMTc1OTcwOTgzMzAcBgorBgEEAYKoOwMCBA4TDE1JR1VFTCBBTkdFTDAXBgorBgEEAYKoOwMDBAkTB0NFTEVET04wGAYKKwYBBAGCqDsDBAQKEwhHT05aQUxFWjAkBgorBgEEAYKoOwMFBBYTFFBSRVNJREVOVEUgRUpFQ1VUSVZPMFUGCisGAQQBgqg7AwcERxNFQVYgREUgTE9TIFNIWVJJUyBTTiBLTSA1IFZJQSBBTUFHVUFOQSBGUkVOVEUgQSBMQSBIQUNJRU5EQSBFTCBDT1JUSUpPMBkGCisGAQQBgqg7AwgECxMJMDIzODI5ODAwMBkGCisGAQQBgqg7AwkECxMJUnVtaW5haHVpMBcGCisGAQQBgqg7AwwECRMHRUNVQURPUjAgBgorBgEEAYKoOwMzBBITEFNPRlRXQVJFLUFSQ0hJVk8wMgYDVR0RBCswKYEnZ19yZXByZXNlbnRhbnRlbGVnYWxAY29ycG9yYWNpb25ncGYuY29tMIIB4QYDVR0fBIIB2DCCAdQwggHQoIIBzKCCAciGgdZsZGFwOi8vYmNlcWxkYXBzdWJwMS5iY2UuZWMvY249Q1JMMTMwMSxjbj1BQyUyMEJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1IsbD1RVUlUTyxvdT1FTlRJREFEJTIwREUlMjBDRVJUSUZJQ0FDSU9OJTIwREUlMjBJTkZPUk1BQ0lPTi1FQ0lCQ0Usbz1CQU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlhjRodHRwOi8vd3d3LmVjaS5iY2UuZWMvQ1JML2VjaV9iY2VfZWNfY3JsZmlsZWNvbWIuY3JspIG2MIGzMQswCQYDVQQGEwJFQzEiMCAGA1UEChMZQkFOQ08gQ0VOVFJBTCBERUwgRUNVQURPUjE3MDUGA1UECxMuRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLUVDSUJDRTEOMAwGA1UEBxMFUVVJVE8xJTAjBgNVBAMTHEFDIEJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxEDAOBgNVBAMTB0NSTDEzMDEwKwYDVR0QBCQwIoAPMjAyMTA3MDExOTM0MDBagQ8yMDIzMDcwMTIwMDQwMFowHwYDVR0jBBgwFoAUSKLfIx8d+CxReowDzUkypQnBlKswHQYDVR0OBBYEFB1UrW9KQEURvUW8j7zn8Y7ui1CyMAkGA1UdEwQCMAAwGQYJKoZIhvZ9B0EABAwwChsEVjguMQMCBLAwDQYJKoZIhvcNAQELBQADggIBAC56thZbToM51BkwwJRJjSqG0CpwanHxt8DA1UfX8zQTRC5GXt2FF9v4E/osMfXD3wiD++BC+550ASR3AklD5FvzmFjnkLDSKmbIbSH3wiNB24qPT9BDKbdqpj8wgzF0ldl8Q1U3pJng44oaQ0MXNO2twBFCXkjxzNuAXg4M1VJfAfrNc2F0e57BlH72p88pjbp2iggkLwdolVP0LkcmmEfnSrt/ZTZDCSoSN61zTYhQSfqjXg9+ORoLhMdFMc9C2LdvS/rQE2kvb5pKzPP2mhLf5KzYr96DJVx1jZ8Bw1oMKf8xd4dY+E54Alkf1Z1EmF6pzSU5uUXH5Ua4liY9L/CIa5bEdYhWlNmH7svrmxfD+9nDaEOHPuJt5Nfny24/qITuAsUE38Jwa7iy+hTAGe3BTktlKGZHpAjz3Uy4pkZpB94imuEuzFhTdAGpKDJKM9lgMAPenwL/9zL5wVQRlQnML6WPdTqpIKqi+eYC4LRNIcV25cB4ZSernfNVRuyfwJytd74sS//usAL6dzRoRI8lJkGBknHFYD71lF6vVuT8dvJ80KlRyrrwU0cif6kbqh2Pe6Dok4Nh25kJdkyDFevpqb50BAWI/4GuxI5d8Jx+gdLb2AN5NdDzdj3Btm0tMmOZFgVMpZPrkiVH2QJRhumc+nWbXPZ4vsD0mrG145CN</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>
+uWpj5GLjEWBBSRilziAkh/tIrk5ej5EME3J1Lbz3KmCVoVAh6J8qvL4T992ijj1g8s+5DwST4Tk1Oqijt+gFC/TeCGbPsaosMlmf1XI6ZqI33tyuErCohHX6j5ROF5AmuFvMSL2y9YULqugp2U8tmyTxGI8SFkPRO71M2fLVD4+s8WtL8RIqT1IML/gEKejtV87gYkfW8bL306llMVekCE43Sm/+T8mNll/WwTh83H0M/1OwOtBXaCvU5BjgTqRD1raxL845dyaIR5HM+CPVSHlReRqJShlC2tZvlGeLU7KvIjmg7cv0QOXmnmkacIUUpmghUTGPeZEnkd/em7UVyQ==
+</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature255229-Object529916"><etsi:QualifyingProperties Target="#Signature255229"><etsi:SignedProperties Id="Signature255229-SignedProperties652786"><etsi:SignedSignatureProperties><etsi:SigningTime>2022-12-05T18:12:53-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>ONeK/eA6p2tgLpOxfD5mIka+hxw=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1533651713</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-580713"><etsi:Description>Contenido Comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+
